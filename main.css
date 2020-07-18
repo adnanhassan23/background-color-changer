@@ -1,0 +1,17 @@
+#changeBackground {
+    text-align: center;
+    margin-top: 18%;
+}
+
+button {
+    font-size: 20px;
+    font-family: calibri;
+    padding: 20px;
+    border-radius: 16px 16px 16px 16px;
+    outline: none;
+    border: 2px solid green;
+}
+
+button:hover {
+    color: green;
+}
